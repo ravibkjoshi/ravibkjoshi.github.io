@@ -1,0 +1,25 @@
+div {
+  
+    border: 25px solid green;
+    padding: 25px;
+} 
+
+span {margin:300px;
+position:fixed;
+left: 200px; }
+
+#tino {font-size: 50px;
+
+}
+p.sunnyvale
+{ font-size: 300%;}
+
+a:visited {
+    color: red;
+}
+
+@media screen and (max-width: 700px) {
+  body {
+    background-color: yellow;
+  }
+}
